@@ -18,7 +18,7 @@ export default function Profile() {
           <p className=" text-4xl md:text-6xl">Ezequiel Fortuna</p>
           <p className="mt-3 text-lg">Product owner</p>
           <p className="text-lg">QA tester</p>
-          <p className="mt-7">Ubication: Monte Grande, Argentina</p>
+          <p className="mt-7">Location: Monte Grande, Argentina</p>
           <p className="text-xs md:text-sm mt-5">
             My main function as a product owner is to represent the interests of
             the client and the business, collaborating closely with the team
