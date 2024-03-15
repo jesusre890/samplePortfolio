@@ -63,7 +63,7 @@ export default function Profile() {
               [Download CV]
             </p>
           </a>
-          <p>- Updated - 12/3/2024, 1:44:12 PM </p>
+          <p>- Updated - 15/3/2024, 19:41:12 PM </p>
         </div>
       </div>
     </div>
