@@ -1,5 +1,5 @@
 import { Chip } from "@material-tailwind/react";
-import cv from "../../assets/FORTUNA EZEQUIEL EMILIO.pdf";
+import cv from "../../assets/CV - Ezequiel Fortuna.pdf";
 
 export default function Profile() {
   return (
