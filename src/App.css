@@ -1,10 +1,10 @@
 #root {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  text-align: start;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-align: start;
 }
 
-body{
-  background-color: #333333;
+body {
+	background-color: #333333;
 }
