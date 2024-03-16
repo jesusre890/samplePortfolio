@@ -24,9 +24,7 @@ export default function Education() {
 
 				{/*inspeccion*/}
 				<div className="flex flex-col md:flex-row md:gap-7 md:items-center">
-					<p className=" font-bold">
-						Construction Management and Inspection Course
-					</p>
+					<p className=" font-bold">Construction Management and Inspection Course</p>
 					<p>Central Society of Architects </p>
 					<p className="text-sm text-light-green-700">[2021]</p>
 				</div>

@@ -20,9 +20,9 @@ export default function Profile() {
 					<p className="text-lg">QA tester</p>
 					<p className="mt-7">Location: Monte Grande, Argentina</p>
 					<p className="text-xs md:text-sm mt-5">
-						My main function as a product owner is to represent the interests of
-						the client and the business, collaborating closely with the team
-						development team to define and prioritize product requirements.
+						My main function as a product owner is to represent the interests of the
+						client and the business, collaborating closely with the team development
+						team to define and prioritize product requirements.
 					</p>
 					<p className="text-xs md:text-sm">
 						Background as an Architect gives me a deep understanding of system

@@ -52,9 +52,7 @@ export default function Skills() {
 							<p className=" font-bold">- Teamwork</p>
 						</div>
 						<div className="flex flex-col md:flex-row md:gap-4 md:items-center">
-							<p className=" font-bold">
-								- Organization and management of resources
-							</p>
+							<p className=" font-bold">- Organization and management of resources</p>
 						</div>
 						<div className="flex flex-col md:flex-row md:gap-4 md:items-center">
 							<p className=" font-bold">- Problem solving</p>

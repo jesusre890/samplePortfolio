@@ -18,27 +18,21 @@ export default function Experience() {
 				<div className="flex flex-col md:flex-row md:gap-6 md:items-center">
 					<p className=" font-bold">Product owner</p>
 					<p>MangooDev SRL -</p>
-					<p className="text-sm text-light-green-700">
-						[January 2018 - April 2023]
-					</p>
+					<p className="text-sm text-light-green-700">[January 2018 - April 2023]</p>
 				</div>
 
 				{/*Indelama SRL*/}
 				<div className="flex flex-col md:flex-row md:gap-6 md:items-center">
 					<p className=" font-bold">Architect</p>
 					<p>Indelama SRL -</p>
-					<p className="text-sm text-light-green-700">
-						[April 2023 - March 2024]
-					</p>
+					<p className="text-sm text-light-green-700">[April 2023 - March 2024]</p>
 				</div>
 
 				{/*CAO Architecture*/}
 				<div className="flex flex-col md:flex-row md:gap-6 md:items-center">
 					<p className=" font-bold">Architect</p>
 					<p>CAO Architecture -</p>
-					<p className="text-sm text-light-green-700">
-						[March 2021 - April 2023]
-					</p>
+					<p className="text-sm text-light-green-700">[March 2021 - April 2023]</p>
 				</div>
 
 				{/*Mobit Sillones SRL*/}
