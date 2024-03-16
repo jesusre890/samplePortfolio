@@ -1,7 +1,7 @@
 import { Chip } from "@material-tailwind/react";
 import cv from "../../assets/CV - Ezequiel Fortuna.pdf";
 
-export default function Profile() {
+function Profile() {
 	return (
 		<div className=" my-28 mb-44">
 			{/*RUNS ubicacion */}
@@ -69,3 +69,4 @@ export default function Profile() {
 		</div>
 	);
 }
+export default Profile;

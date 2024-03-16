@@ -1,6 +1,6 @@
 import { Chip } from "@material-tailwind/react";
 
-export default function Contact() {
+function Contact() {
 	return (
 		<div id="contact" className="mb-28">
 			{/*RUNS ubicacion */}
@@ -45,3 +45,5 @@ export default function Contact() {
 		</div>
 	);
 }
+
+export default Contact;

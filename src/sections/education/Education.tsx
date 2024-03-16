@@ -1,6 +1,6 @@
 import { Chip } from "@material-tailwind/react";
 
-export default function Education() {
+function Education() {
 	return (
 		<div id="education" className="mb-28">
 			{/*RUNS ubicacion */}
@@ -53,3 +53,5 @@ export default function Education() {
 		</div>
 	);
 }
+
+export default Education;

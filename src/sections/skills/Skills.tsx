@@ -1,6 +1,6 @@
 import { Chip } from "@material-tailwind/react";
 
-export default function Skills() {
+function Skills() {
 	return (
 		<div>
 			<div id="skills" className="mb-28">
@@ -63,3 +63,5 @@ export default function Skills() {
 		</div>
 	);
 }
+
+export default Skills;

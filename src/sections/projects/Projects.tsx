@@ -1,6 +1,6 @@
 import { Chip } from "@material-tailwind/react";
 
-export default function Projects() {
+function Projects() {
 	return (
 		<div>
 			{/*RUNS ubicacion */}
@@ -40,3 +40,5 @@ export default function Projects() {
 		</div>
 	);
 }
+
+export default Projects;
