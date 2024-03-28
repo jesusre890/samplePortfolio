@@ -1,5 +1,6 @@
 import { Chip } from "@material-tailwind/react";
-import cv from "../../assets/CV - Ezequiel Fortuna.pdf";
+import cv from "../../assets/CV - Ezequiel Fortuna (English).pdf";
+import cves from "../../assets/CV - Ezequiel Fortuna.pdf";
 
 export default function Profile() {
 	return (
@@ -63,7 +64,15 @@ export default function Profile() {
 							[Download CV]
 						</p>
 					</a>
-					<p>- Updated - 15/3/2024, 19:41:12 PM </p>
+					<p>- Updated - 28/3/2024, 17:55:32 PM </p>
+				</div>
+				<div className="flex flex-col gap-1 text-xs md:text-sm md:gap-4 md:flex-row mt-5">
+					<a download="" href={cves}>
+						<p className=" text-deep-orange-800 hover:text-light-blue-500">
+							[Descargar CV]
+						</p>
+					</a>
+					<p>- Actualizado - 28/3/2024, 17:59:01 PM </p>
 				</div>
 			</div>
 		</div>
